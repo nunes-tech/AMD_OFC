@@ -1177,7 +1177,7 @@ if (!isCmd && isGroup && !info.key.fromMe) console.log('\033[0;35m~\x1b[1;37m>',
 //======(JOGO-DA-VELHA)=======(Função)===\\
 
 //////////_FUNÇÕES DO JOGO DA VELHA_//////
-async function joguinhodavelha() {
+/* async function joguinhodavelha() {
 if(joguinhodavelhajs2.includes(from) || joguinhodavelhajs.includes(sender)) {
 const cmde = budy.toLowerCase().split(" ")[0] || "";
 let arrNum = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
@@ -1327,7 +1327,7 @@ moving.O + "@s.whatsapp.net",
 }
 } 
 } 
-}
+} */
 
 
 //=================================\\
@@ -1350,7 +1350,7 @@ conn.groupParticipantsUpdate(from, [sender], 'remove')
 }
 } 
 AntilinkHardF()
-joguinhodavelha()
+// joguinhodavelha() 
 
 if(isUrl(body) && isAntilinkgp && isGroup && isBotGroupAdmins) {
 if(!isAntilinkgp) return

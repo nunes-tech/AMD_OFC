@@ -104,23 +104,23 @@
     "numbers": [
       {
         "id": "558681299693@s.whatsapp.net",
-        "messages": 30,
-        "cmd_messages": 1
+        "messages": 62,
+        "cmd_messages": 5
       },
       {
         "id": "@s.whatsapp.net",
-        "messages": 9,
+        "messages": 38,
         "cmd_messages": 0
       },
       {
         "id": "558695560056@s.whatsapp.net",
-        "messages": 6,
-        "cmd_messages": 0
+        "messages": 27,
+        "cmd_messages": 2
       },
       {
         "id": "558399894220@s.whatsapp.net",
-        "messages": 23,
-        "cmd_messages": 0
+        "messages": 84,
+        "cmd_messages": 19
       }
     ]
   },
